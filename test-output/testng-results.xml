@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-16T13:47:37 EST" name="Default suite" finished-at="2023-02-16T13:47:45 EST" duration-ms="8136">
+    <groups>
+    </groups>
+    <test started-at="2023-02-16T13:47:37 EST" name="Default test" finished-at="2023-02-16T13:47:45 EST" duration-ms="8136">
+      <class name="com.Runner.Runner">
+        <test-method signature="leafTaps()[pri:0, instance:com.Runner.Runner@2525ff7e]" started-at="2023-02-16T13:47:37 EST" name="leafTaps" finished-at="2023-02-16T13:47:45 EST" duration-ms="8116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leafTaps -->
+      </class> <!-- com.Runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
